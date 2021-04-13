@@ -6,7 +6,7 @@ import "./styles.css";
 
 const user = {
   name: "お名前です",
-  image: "https://source.unsplash.com/photos/NE0XGVKTmcA",
+  image: "https://source.unsplash.com/NE0XGVKTmcA",
   email: "aaaa@aaa.com",
   phone: "000-9999-8888",
   company: {
